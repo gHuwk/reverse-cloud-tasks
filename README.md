@@ -212,3 +212,11 @@ http://www.postimage.org
 
 10. В телеге есть бот для рандомскана 
 11. ( https://t.me/xai7poozengee2Aen3poMookohthaZ) 
+
+
+Интересные страницы:
+
+http://5kr.mosuzedu.ru/CTFtasks/
+
+http://cmcmsu.info/
+
