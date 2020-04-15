@@ -220,3 +220,4 @@ http://5kr.mosuzedu.ru/CTFtasks/
 
 http://cmcmsu.info/
 
+https://ctfnews.ru/literature/
