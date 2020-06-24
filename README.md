@@ -5,6 +5,9 @@
 программах.
 
 ## Нужные ссылки:
+Полезности:
+http://t2d-dev.ru/HackersBasics.html
+
 
 [Forwarded from Agal1ar3pt]
 
